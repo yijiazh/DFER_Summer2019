@@ -6,7 +6,7 @@
 | Deep Facial Expression Recognition: A Survey    | https://arxiv.org/pdf/1804.08348.pdf | - |
 | Deep Learning without Poor Local Minima      | https://arxiv.org/pdf/1605.07110.pdf    | - |
 |EMOTIVE ONTOLOGY: EXTRACTING FINE-GRAINED EMOTIONS FROM TERSE, INFORMAL MESSAGES | http://www.iadisportal.org/ijcsis/papers/2013160208.pdf | - |
-| Plutchik’s Wheel of Emotions – 2017 Update| http://www.uvm.edu/~mjk/013%20Intro%20to%20Wildlife%20Tracking/Plutchik's%20Wheel%20of%20Emotions%20-%202017%20Update%20_%20Six%20Seconds.pdf | - |
+| Plutchik’s Wheel of Emotions – 2017 Update| https://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions/ | - |
 | Wikipedia: Plutchik’s Wheel of Emotions| https://en.wikipedia.org/wiki/Plutchik%27s_wheel_of_emotions | - |
 | Facial landmarks with dlib, OpenCV, and Python | https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/| - |
 
