@@ -9,8 +9,7 @@
 | Plutchik’s Wheel of Emotions – 2017 Update| https://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions/ | - |
 | Wikipedia: Plutchik’s Wheel of Emotions| https://en.wikipedia.org/wiki/Plutchik%27s_wheel_of_emotions | - |
 | Facial landmarks with dlib, OpenCV, and Python | https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/| - |
-| Depression Scale Recognition from Audio, Visual
-and Text Analysis | https://arxiv.org/pdf/1709.05865.pdf | - |
+| Depression Scale Recognition from Audio, Visual and Text Analysis | https://arxiv.org/pdf/1709.05865.pdf | - |
 
 ## Book References
 | Books         | Authors         | Links  |
