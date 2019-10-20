@@ -1,5 +1,10 @@
 # DFER_Summer2019
 
+## Meeting Notes
+
+| Date       | Links        |
+| ------------- |-------------|
+|   10-20-19   |  |
 ## Paper Discussion
 | Papers        | Links         | Notes  |
 | ------------- |-------------| --------|
