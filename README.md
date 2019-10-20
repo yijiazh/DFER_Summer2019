@@ -4,7 +4,7 @@
 
 | Date       | Links        |
 | ------------- |-------------|
-|   10-20-19   |  |
+|   10-20-19   | https://github.com/yijiazh/DFER_Summer2019/blob/master/Meeting_10_20_19.pdf |
 ## Paper Discussion
 | Papers        | Links         | Notes  |
 | ------------- |-------------| --------|
